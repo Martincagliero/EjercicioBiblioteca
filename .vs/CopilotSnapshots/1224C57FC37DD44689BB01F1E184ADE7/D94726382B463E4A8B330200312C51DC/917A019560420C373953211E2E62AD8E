@@ -1,0 +1,29 @@
+﻿using Microsoft.EntityFrameworkCore;
+using AccesoDatos.Models;
+
+namespace AccesoDatos.Data
+{
+    public class AplicationDbContext : DbContext
+    {
+        public DbSet<Autor> Autor { get; set; }
+
+        public DbSet<Libro> Libro { get; set; }
+
+
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlite("Data Source=C:\\databases\\exampleDB.db");
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Configurar la relación correcta entre Autor y Libro
+            modelBuilder.Entity<Libro>()
+                .HasOne(l => l.autor)
+                .WithMany(a => a.Libros)
+                .HasForeignKey(l => l.AutorId)
+                .OnDelete(DeleteBehavior.Cascade);
+        }
+    }
+}
