@@ -6,6 +6,6 @@
     "\\AppConsola\\AccesoDatos\\Data",
     "\\AppConsola\\AppConsola"
   ],
-  "SelectedNode": "\\AppConsola\\AccesoDatos\\Data\\ApplicationDbContext.cs",
+  "SelectedNode": "\\AppConsola\\AppConsola\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
