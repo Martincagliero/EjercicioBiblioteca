@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\AppConsola",
+    "\\AppConsola\\AccesoDatos",
+    "\\AppConsola\\AccesoDatos\\Data",
     "\\AppConsola\\AppConsola"
   ],
-  "SelectedNode": "\\AppConsola\\AppConsola.slnx",
+  "SelectedNode": "\\AppConsola\\AccesoDatos\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

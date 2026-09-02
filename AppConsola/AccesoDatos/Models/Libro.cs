@@ -13,8 +13,12 @@ namespace AccesoDatos.Models
         public int Anio { get; set; }
 
         public int AutorId { get; set; }
+        public bool Estado { get; set; }
 
-        public Autor Autor { get; set; }
+        public int CategoriaId { get; set; }
+        public Categoria Categoria { get; set; } 
+
+        public Autor Autor { get; set; } //es propiedad de navegacion, me permite traer el autorId
         
     }
 }

@@ -2971,11 +2971,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AppConsola\\AppConsola.csproj",
+      "projectUniqueName": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AppConsola\\AppConsola.csproj",
       "projectName": "AppConsola",
-      "projectPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AppConsola\\AppConsola.csproj",
+      "projectPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AppConsola\\AppConsola.csproj",
       "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AppConsola\\obj\\",
+      "outputPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AppConsola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2993,8 +2993,8 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\AccesoDatos.csproj": {
-              "projectPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\AccesoDatos.csproj"
+            "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\AccesoDatos.csproj": {
+              "projectPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\AccesoDatos.csproj"
             }
           }
         }

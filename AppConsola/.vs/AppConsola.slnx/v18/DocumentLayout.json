@@ -1,36 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\",
+  "WorkspaceRootPath": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B43DBFF-E285-2334-8A77-09A4879ADD36}|AppConsola\\AppConsola.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\u9-entityframework\\appconsola\\appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B43DBFF-E285-2334-8A77-09A4879ADD36}|AppConsola\\AppConsola.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B43DBFF-E285-2334-8A77-09A4879ADD36}|AppConsola\\AppConsola.csproj|solutionrelative:appconsola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\u9-entityframework\\appconsola\\accesodatos\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\u9-entityframework\\appconsola\\accesodatos\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\u9-entityframework\\appconsola\\accesodatos\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti\\AppData\\Local\\SourceServer\\74e379a60624a0b42331d2670d25b56b37c09eff628cc50d62b95489d2604674\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\u9-entityframework\\appconsola\\accesodatos\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\migrations\\20260902180439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20260902180439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\models\\autor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260902175546_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260901215001_CrearBaseDeDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Juani\\Desktop\\2026\\EF\\AppConsola\\AccesoDatos\\Migrations\\20260812223930_AgregaMigracionInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\u9-entityframework\\appconsola\\accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\migrations\\20260902180149_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20260902180149_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\marti\\onedrive\\documentos\\clase-entregable\\ejerciciobiblioteca\\appconsola\\accesodatos\\migrations\\20260902183419_agregoatributoslibrocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC8B56AF-C884-1B79-740F-D48CDB7C9D05}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20260902183419_agregoatributoslibrocat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,8 +62,83 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260902183419_AgregoAtributosLibroCat.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Migrations\\20260902183419_AgregoAtributosLibroCat.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20260902183419_AgregoAtributosLibroCat.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Migrations\\20260902183419_AgregoAtributosLibroCat.cs",
+              "RelativeToolTip": "AccesoDatos\\Migrations\\20260902183419_AgregoAtributosLibroCat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:34:19.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260902180439_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Migrations\\20260902180439_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20260902180439_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Migrations\\20260902180439_InitialCreate.cs",
+              "RelativeToolTip": "AccesoDatos\\Migrations\\20260902180439_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:04:40.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260902180149_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Migrations\\20260902180149_Inicial.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20260902180149_Inicial.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Migrations\\20260902180149_Inicial.cs",
+              "RelativeToolTip": "AccesoDatos\\Migrations\\20260902180149_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T18:01:49.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260902175546_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260902175546_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\..\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260902175546_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260902175546_InitialCreate.cs",
+              "RelativeToolTip": "..\\..\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260902175546_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:55:46.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Models\\Categoria.cs",
+              "RelativeToolTip": "AccesoDatos\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T17:21:00.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260901215001_CrearBaseDeDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260901215001_CrearBaseDeDatos.cs",
+              "RelativeDocumentMoniker": "..\\..\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260901215001_CrearBaseDeDatos.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260901215001_CrearBaseDeDatos.cs",
+              "RelativeToolTip": "..\\..\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Migrations\\20260901215001_CrearBaseDeDatos.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T21:50:01.616Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -50,19 +147,19 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\74e379a60624a0b42331d2670d25b56b37c09eff628cc50d62b95489d2604674\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\Marti\\AppData\\Local\\SourceServer\\74e379a60624a0b42331d2670d25b56b37c09eff628cc50d62b95489d2604674\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\74e379a60624a0b42331d2670d25b56b37c09eff628cc50d62b95489d2604674\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAIAwwBEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T23:00:26.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Models\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Models\\Libro.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Models\\Libro.cs",
               "RelativeToolTip": "AccesoDatos\\Models\\Libro.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T22:13:47.791Z"
             },
@@ -70,18 +167,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AppConsola\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AppConsola\\Program.cs",
               "RelativeDocumentMoniker": "AppConsola\\Program.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AppConsola\\Program.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AppConsola\\Program.cs",
               "RelativeToolTip": "AppConsola\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAANoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAwOYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T22:47:21.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "20260812223930_AgregaMigracionInicial.cs",
               "DocumentMoniker": "C:\\Users\\Juani\\Desktop\\2026\\EF\\AppConsola\\AccesoDatos\\Migrations\\20260812223930_AgregaMigracionInicial.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Juani\\Desktop\\2026\\EF\\AppConsola\\AccesoDatos\\Migrations\\20260812223930_AgregaMigracionInicial.cs",
@@ -92,55 +189,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "AccesoDatos\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T22:30:49.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Repositories\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Repositories\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositories\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Repositories\\IGenericRepository.cs",
               "RelativeToolTip": "AccesoDatos\\Repositories\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T22:29:18.066Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Autor.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Models\\Autor.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Models\\Autor.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Models\\Autor.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Models\\Autor.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Models\\Autor.cs",
               "RelativeToolTip": "AccesoDatos\\Models\\Autor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-12T21:45:44.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Data\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Data\\AplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\U9-EntityFramework\\AppConsola\\AccesoDatos\\Data\\AplicationDbContext.cs",
-              "RelativeToolTip": "AccesoDatos\\Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Marti\\OneDrive\\Documentos\\CLASE-ENTREGABLE\\EjercicioBiblioteca\\AppConsola\\AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AccesoDatos\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T21:42:12.892Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+              "WhenOpened": "2026-08-12T21:42:12.892Z",
+              "EditorCaption": ""
             }
           ]
         }
