@@ -11,7 +11,7 @@ namespace AccesoDatos.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // use esto pq no me andaba la creacion de base de datos // con la unica solucion q pude resolverlo fue creando un archivo.db en appconsola 
+            
             optionsBuilder.UseSqlite("Data Source=app.db");
         }
 
